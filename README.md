@@ -28,6 +28,12 @@ Programming Practice
 
 - Project Euler - Programming challenges for the mathematically inclined. Project Euler is a compiled list programming problems for which mathematical insight is often required for an efficient solution. http://projecteuler.net/ 
 
+- Try Ruby - An interactive environment with tutorials for getting started and learning Ruby.  It is based on [why's (poingnant Guide to Ruby)](http://en.wikipedia.org/wiki/Why's_(poignant)_Guide_to_Ruby).  http://tryruby.org/
+
+- 4Clojure - A collection of interactive problems for learning and developing in Clojure. http://www.4clojure.com/
+
+- Koans - Koans are a term for small practice problems intended to help someone learn a new language and move beyond the simple "Hello World".  Simply Google "ruby koans", "scala koans", "clojure koans" etc and you easily find ones for the languages you are interested in.
+
 Theory
 - Path Finding Algorithms - A visual representation of numerous path finding algorithms implemented in JavaScript. http://qiao.github.io/PathFinding.js/visual/ Source code available here https://github.com/qiao/PathFinding.js
 
